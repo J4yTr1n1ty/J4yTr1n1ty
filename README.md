@@ -11,7 +11,7 @@ For more information about me, visit my personal website here: https://jay-prod.
   <summary><b>📌 Programming languages</b></summary>
   <br>
 
-[![Programming Languages](https://skillicons.dev/icons?i=cs,c,js,ts,py)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=cs,c,go,js,ts,py)](https://skillicons.dev)
 </details>
 
 <details open>
@@ -53,7 +53,7 @@ For more information about me, visit my personal website here: https://jay-prod.
   <summary><b>🎓 Currently learning</b></summary>
   <br>
     
-[![Currently learning](https://skillicons.dev/icons?i=rust,cpp,go,materialui)](https://skillicons.dev)
+[![Currently learning](https://skillicons.dev/icons?i=rust,cpp,materialui)](https://skillicons.dev)
 </details>
 
 ## 📊 Github stats and extras
