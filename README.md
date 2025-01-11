@@ -1,6 +1,6 @@
 # 🙋 About me
 
-Hey there, I'm a Software Developer, Cybersecurity Enthusiast and Broadcast Producer currently living in Switzerland and finishing my Apprenticeship.
+Hey there, I'm a Software Developer, Cybersecurity Enthusiast and Broadcast Producer currently living in Switzerland and working as a Software Developer and studying Cybersecurity.
 I work on a lot of random projects at the moment to learn some new Languages in my free time.
 
 For more information about me, visit my personal website here: https://jay-prod.dev/
