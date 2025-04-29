@@ -51,7 +51,7 @@ For more information about me, visit my personal website here: <https://jay-prod
   <summary><b>🔧 Software and Tools</b></summary>
   <br>
 
-[![Software and Tools](https://skillicons.dev/icons?i=git,github,neovim,linux,arch,windows,vscode)](https://skillicons.dev)
+[![Software and Tools](https://skillicons.dev/icons?i=neovim,linux,git,github,gitlab,arch)](https://skillicons.dev)
 
 </details>
 
