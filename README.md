@@ -93,4 +93,4 @@ For more information about me, visit my personal website here: <https://jay-prod
 </details>
 <br>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=l14i65b7ipl3v1ezms5ny850m&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=l14i65b7ipl3v1ezms5ny850m&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=l14i65b7ipl3v1ezms5ny850m&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=l14i65b7ipl3v1ezms5ny850m&redirect=true)
