@@ -19,7 +19,7 @@ For more information about me, visit my personal website here: <https://jay-prod
   <summary><b>📚 Libraries and Frameworks</b></summary>
   <br>
 
-[![Libraries and Frameworks](https://skillicons.dev/icons?i=dotnet,angular,bootstrap,tailwind,react,htmx)](https://skillicons.dev)
+[![Libraries and Frameworks](https://skillicons.dev/icons?i=dotnet,angular,react,bootstrap,tailwind,react,htmx)](https://skillicons.dev)
 
 </details>
 
