@@ -11,7 +11,7 @@ For more information about me, visit my personal website here: <https://jay-prod
   <summary><b>📌 Programming languages</b></summary>
   <br>
 
-[![Programming Languages](https://skillicons.dev/icons?i=cs,c,go,js,ts,py)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=cs,c,go,js,ts,py,terraform,)](https://skillicons.dev)
 
 </details>
 
@@ -19,7 +19,7 @@ For more information about me, visit my personal website here: <https://jay-prod
   <summary><b>📚 Libraries and Frameworks</b></summary>
   <br>
 
-[![Libraries and Frameworks](https://skillicons.dev/icons?i=dotnet,angular,react,bootstrap,tailwind,react,htmx)](https://skillicons.dev)
+[![Libraries and Frameworks](https://skillicons.dev/icons?i=dotnet,angular,react,bootstrap,tailwind,htmx)](https://skillicons.dev)
 
 </details>
 
@@ -35,7 +35,7 @@ For more information about me, visit my personal website here: <https://jay-prod
   <summary><b>🧠 DevOps</b></summary>
   <br>
 
-[![DevOps Tools](https://skillicons.dev/icons?i=docker,githubactions,kubernetes,ansible,prometheus)](https://skillicons.dev)
+[![DevOps Tools](https://skillicons.dev/icons?i=docker,githubactions,kubernetes,ansible,prometheus,gitlab)](https://skillicons.dev)
 
 </details>
 
@@ -62,5 +62,3 @@ For more information about me, visit my personal website here: <https://jay-prod
 [![Currently learning](https://skillicons.dev/icons?i=rust,zig,nextjs)](https://skillicons.dev)
 
 </details>
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=l14i65b7ipl3v1ezms5ny850m&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=l14i65b7ipl3v1ezms5ny850m&redirect=true)
